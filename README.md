@@ -1,15 +1,11 @@
 # 我的网址收藏
 
-> 把浏览器里躺了很久的 241 条收藏，按「用途」重新归类成一份能读的清单。
-> 更新于 2026-11-07 ｜ 合并重复后共 228 个站点，分 14 类。
-
-原收藏夹只有「资源 / 工具 / 学习」几个大筐，什么都往里扔。下面按**使用场景**重组：想找什么，先想场景，再看分组。
 
 ## 目录
 
-- [校园与就业](#校园与就业)
-- [开发与编程](#开发与编程)
-- [学习与教育](#学习与教育)
+- [成人内容](#成人内容)
+- [就业](#就业)
+- [学习](#学习)
 - [AI 与模型](#ai-与模型)
 - [影视动漫与 ACG](#影视动漫与-acg)
 - [游戏](#游戏)
@@ -20,21 +16,34 @@
 - [社区与论坛](#社区与论坛)
 - [网络与加速](#网络与加速)
 - [生活与其他](#生活与其他)
-- [成人内容](#成人内容)
+
 
 ---
 
-## 校园与就业
+## 成人内容
 
-### 校内系统
+> ⚠️ 以下为 18+ 内容，仅作个人索引，请遵守所在地法律法规。
 
 | 站点 | 说明 |
 | :--- | :--- |
-| [漳州职业技术学院](https://www.fjzzit.edu.cn/) | 学校官网 |
-| [正方教务管理系统](https://jxgl.fjzzit.edu.cn:10001/) | 选课 / 成绩 / 课表 |
-| [校就业指导中心](https://fjzzy.jysd.com/) | 校内招聘与就业通知 |
+| [Iwara](https://www.iwara.tv/) |i站 |
+| [Hanime1](https://hanime1.me/) | H站 |
+| [AI 风月](https://aigirlfriendstudio.com/zh/explore/apps) | AI 聊天 |
+| [91 吃瓜](https://www.91cg.com/) | 吃瓜|
+| [AcFan 禁漫](https://hqcuwkcj.nyr38pug.shop/) | a站 里番 |
+| [Ac_fun](https://acpc.q2h3f9f8.work/) | 备用镜像 |
+| [JMComic 文档](https://jmcomic.readthedocs.io/zh-cn/latest/) | jm下载文档 |
+| [JMComic-Crawler](https://github.com/hect0x7/JMComic-Crawler-Python) | jm下载项目 |
+| [XVideoS](https://xvdizhi50.top/) | x站 |
+| [资源导航](https://x.20510000.xyz/) | 推特视频图片 |
+| [备用入口](https://h-b6a2f81f.20770010.xyz/) | 镜像站 |
+| [Pink Pineapple](https://www.pinkpineapple.co.jp/) | 日本的粉色菠萝动画 |
+| [Erogemy](https://erogemy.com/) | 黄色的网页小游戏 |
+| [黄油网址整理](https://github.com/yisubox/gamge) | 同行大佬的黄油网址 |
+| [电报tg频道](https://telegramchannels.me/zh) | TG 频道 |
+| [Telegram 频道推荐](https://telegramchannels.me/zh/channels?category=other) | 频道分类榜 |
 
-### 就业平台
+## 就业
 
 | 站点 | 说明 |
 | :--- | :--- |
@@ -43,25 +52,22 @@
 | [中国公共招聘网](http://job.mohrss.gov.cn/) | 人社部官方岗位库 |
 | [就业在线](https://www.jobonline.cn/) | 人社部全国招聘平台 |
 | [中国国家人才网](https://www.newjobs.com.cn/) | 国家级人才服务 |
-| [福建就业网](https://www.fj99.org.cn/job/) | 省内岗位（毕业生版见 [bys](https://www.fj99.org.cn/bys/)） |
-| [福建高校毕业生就业](https://www.fj99.org.cn/bys/#/) | 省内毕业生专场 |
-| [漳州人社通](https://m12333.cn/zhangzhou.aspx) | 漳州社保 / 人社服务 |
 | [牛客网](https://www.nowcoder.com/) | 笔试真题、面经、内推 |
 | [神仙外企](https://waiqi.com/) | 外企岗位聚合 |
 | [中国就业市场 AI 影响分析](https://madeye.github.io/jobs/) | 各职业被 AI 替代的量化分析 |
 | [Job Worth Calculator](https://worthjob.zippland.com/?ref=www.moyunav.com) | 算一算这份工作值不值 |
+| [猪八戒网](https://www.zbj.com/) | 外包 / 企业服务 |
 
-## 开发与编程
+## 学习
 
 ### 代码托管与社区
 
 | 站点 | 说明 |
 | :--- | :--- |
-| [GitHub](https://github.com/dashboard) | 主账号面板 |
+| [GitHub](https://github.com) | 主账号面板 |
 | [Gitee](https://gitee.com/) | 国内代码托管 |
 | [GitHub 中文社区](https://www.github-zh.com/) | 中文教程与资讯 |
-| [CSDN](https://www.csdn.net/) | 中文技术博客（搜索用，噪音大） |
-| [Greasy Fork](https://greasyfork.org/zh-CN) | 油猴脚本仓库 |
+| [CSDN](https://www.csdn.net/) | 中文技术博客 |
 
 ### 教程与刷题
 
@@ -90,9 +96,7 @@
 | [ER 图生成](https://code996.fun/home) | 建表语句转 ER 图 |
 | [AssetStudio](https://github.com/Perfare/AssetStudio/releases) | 游戏资源解包 |
 | [UCI 数据集](https://archive.ics.uci.edu/) | 机器学习练手数据 |
-| [Public APIs](https://github.com/public-apis/public-apis) | 免费 API 大全 |
-
-## 学习与教育
+| [Public APIs](https://github.com/public-apis/public-apis) | 免费试用公共 API |
 
 ### 网课与公开课
 
@@ -103,7 +107,6 @@
 | [我要自学网](https://www.51zxw.net/) | 软件 / 设计 / 编程视频教程 |
 | [大学资源网](https://www.dxzy163.com/) | 各学科课程 |
 | [doyoudo](https://www.doyoudo.com/) | 设计类教程（PS / PR / AE） |
-| [oeasy](http://oeasy.org/) | 老牌免费系列教程 |
 | [羽兔网](https://www.yutu.cn/) | 设计自学 |
 
 ### 考试与真题
@@ -131,9 +134,8 @@
 | [ModelScope 魔搭](https://modelscope.cn/models) | 阿里模型社区，国内直连 |
 | [LMArena](https://lmarena.ai/) | 大模型匿名对战排行 |
 | [ClawHub](https://clawhub.ai/) | AI 工具与技能聚合 |
-| [黑猪 AI](https://heizhu.click/) | 大模型聚合站 |
 | [WaytoAGI](https://www.waytoagi.com/zh) | 中文 AI 知识库 |
-| [airi](https://github.com/moeru-ai/airi) | 自托管 AI 伴侣（[中文文档](https://github.com/moeru-ai/airi/blob/main/docs/README.zh-CN.md)） |
+| [airi](https://github.com/moeru-ai/airi) | 自托管 AI 伴侣 |
 | [inkos](https://github.com/Narcooo/inkos) | AI 小说写作 CLI |
 
 ### 提示词与导航
@@ -162,7 +164,6 @@
 
 | 站点 | 说明 |
 | :--- | :--- |
-| [HaiSnap 响指](https://www.haisnap.com/) | 一句话生成小应用 |
 | [表答](https://biaoda.me/home) | 表格 / 数据问答 |
 | [Seedance 2.0 手册](https://bytedance.larkoffice.com/wiki/Rx8pwmbXjirkvukCnCQcAtH1nSd) | 视频生成模型使用文档 |
 
@@ -172,9 +173,9 @@
 
 | 站点 | 说明 |
 | :--- | :--- |
-| [囧次元](https://9ciyuan.com/) | 新番聚合 |
+| [囧次元](https://jcy.net/) | 新番聚合 |
 | [菲特动漫](https://fitacg.com/) | 动画 / 新番 / 下载 |
-| [Moefun](https://www.moefun.net/) | 纯净追番 |
+| [Moefun](https://moefun.org/) | 纯净追番 |
 | [AGE 动漫](https://web.agespa-01.com:8443/#/) | 备用番剧站 |
 | [央视片库](https://tv.cctv.com/yxg/index.shtml) | 央视剧集与纪录片 |
 
@@ -191,10 +192,9 @@
 | [Fantia](https://fantia.jp/) | 创作者支援平台（类似 Patreon） |
 | [Mio 澪游圈](http://mio.natapp1.cc/#register) | 小型 ACG 站点（需注册） |
 | [鸟白岛演绎厅](https://www.summerpockets.com/) | 音乐 / 二次元社区 |
-| [萌玩 ACG](https://www.mplay38.cc/) | ACG 资源 |
 | [萤火虫之国](https://forum.hanakos.cc/) | 二次元论坛 |
 | [终音社 mikuclub](https://miku01.top/) | 网址发布页，防失联 |
-| [芯幻 NeoSekai](https://neohent.ai/) | ACG 小圈子（[备用发布页](https://xhacg.cc/)） |
+| [芯幻 NeoSekai](https://neohent.ai/) | ACG 资源、游戏、动漫、漫画 |
 | [trace.moe](https://trace.moe/) | 截图搜番 |
 
 ## 游戏
@@ -203,14 +203,13 @@
 
 | 站点 | 说明 |
 | :--- | :--- |
-| [FitGirl Repacks](https://fitgirl-repacks.site/) | 高压版游戏（认准官网，仿站很多） |
+| [FitGirl Repacks](https://fitgirl-repacks.site/) | 游戏每年都有的 |
 | [byrutgame](https://byrutgame.org/) | 俄站，PC 游戏种子 |
 | [Switch520](https://www.gamer520.com/) | 单机 / Switch 资源 |
-| [咸鱼单机](https://www.xianyudanji.net/) | 单机游戏下载 |
 | [flysheep 资源避难所](http://flysheep.ysepan.com/) | 网盘资源（[搜索页](https://www.flysheep6.com/)） |
-| [乐赏游戏空间](http://qhgame.ysepan.com/) | 网盘资源 |
+| [乐赏游戏空间](http://qhgame.ysepan.com/) | 游戏网盘资源 |
 | [itch.io](https://itch.io/) | 独立游戏 |
-| [cn 游戏库](https://cn-galgame.com/?sort=latest) | Galgame 资源库 |
+| [cn 游戏库](https://cn-galgame.com/?sort=latest) | Galgame、游戏、软件资源库 |
 
 ### 攻略与 Wiki
 
@@ -220,7 +219,7 @@
 | [基沃托斯古书馆](https://kivo.wiki/) | BA 综合百科 |
 | [Schale DB](https://schaledb.com/home) | 学生数据 / 养成计算 |
 | [碧蓝档案剧情站](https://blue-archive.io/) | 剧情查阅 |
-| [Blue Archive Wiki](https://bluearchive.wiki/wiki/Main_Page) | 英文维基 |
+| [Blue Archive Wiki](https://bluearchive.wiki/wiki/Main_Page) | ba的模型 |
 | [原神历史](https://genshinlore.cn/main) | 提瓦特时间线考据 |
 
 ### 我的世界
@@ -228,12 +227,9 @@
 | 站点 | 说明 |
 | :--- | :--- |
 | [Modrinth](https://modrinth.com/) | 模组 / 整合包 / 光影 |
-| [CurseForge](https://www.curseforge.com/) | 模组社区 |
 | [BBSMC](https://bbsmc.net/) | 国内 MC 资源论坛 |
-| [MC 导航网](https://www.mcnav.net/) | MC 工具与站点导航 |
-| [Reden](https://redenmc.com/zh_cn) | 生电辅助模组 |
 | [MC.JS](https://www.mc.js.cool/) | 网页版 MC |
-| [GrabCraft](http://www.grabcraft.com/) | 建筑蓝图（schematic） |
+| [GrabCraft](http://www.grabcraft.com/) | 建筑蓝图 |
 | [BuildIt](https://builditapp.com/) | 建筑速建 |
 | [LittleSkin](https://littleskin.cn/user) | 皮肤站 |
 
@@ -241,6 +237,7 @@
 
 | 站点 | 说明 |
 | :--- | :--- |
+| [CurseForge](https://www.curseforge.com/) | 模组社区 |
 | [Nexus Mods](https://www.nexusmods.com/) | 国际最大 MOD 站 |
 | [3DM MOD 站](https://mod.3dmgame.com/) | 国内 MOD 资源 |
 | [游侠补丁](https://patch.ali213.net/) | 补丁 / 汉化 / 修改器 |
@@ -263,9 +260,9 @@
 | :--- | :--- |
 | [CnGal](https://www.cngal.org/) | 中文 Galgame 资料站 |
 | [Moepedia](https://moepedia.net/) | 美少女游戏日历 |
-| [TouchGal](https://www.touchgal.ink/) | 一站式 Galgame 社区 |
-| [稻荷 GAL](https://inarigal.com/) | 资源下载与分享 |
-| [萌宅社区](https://mengzhai.club/) | Galgame 下载 |
+| [TouchGal](https://www.touchgal.ink/) | 一站式 Galgame下载和社区 |
+| [稻荷 GAL](https://inarigal.com/) | Galgame资源下载与分享 |
+| [萌宅社区](https://mengzhai.club/) | Galgame、软件、游戏 下载 |
 | [NovelGame](https://novelgame.jp/) | 视觉小说投稿平台 |
 | [猫眼 NekoNyan](https://nekonyansoft.com/) | 发行商（欧美本地化） |
 | [Settei Dreams](https://setteidreams.net/) | 原画 / 设定资料 |
@@ -275,7 +272,6 @@
 | 站点 | 说明 |
 | :--- | :--- |
 | [明日方舟标题生成器](https://arknights-logo-generator.netlify.app/) | 生成 Logo |
-| [蔚蓝档案标题生成器](https://tmp.nulla.top/ba-logo/) | 生成 Logo |
 | [Paper2Gal](https://www.paper2gal.top/) | 把论文做成 Galgame（[备用](https://paper2gal.com/)） |
 
 ## 设计素材与壁纸
@@ -285,9 +281,7 @@
 | 站点 | 说明 |
 | :--- | :--- |
 | [哲风壁纸](https://haowallpaper.com/) | 4K 电脑壁纸 |
-| [硬核指南](https://yinghezhinan.com/) | 高清壁纸 |
 | [AURA 壁纸](https://gallery.wallaura.cn/) | 简洁风 |
-| [2D Wallpapers](https://www.2dwallpapers.com/) | 二次元壁纸 |
 
 ### 图标 / 图片 / 3D
 
@@ -361,7 +355,6 @@
 
 | 站点 | 说明 |
 | :--- | :--- |
-| [Hotkey Cheatsheet](https://hotkeycheatsheet.com/zh) | 各软件快捷键速查 |
 | [Learn Anything](https://learn-anything.xyz/) | 输入主题生成学习路径 |
 | [iFixit](https://zh.ifixit.com/) | 免费拆机维修手册 |
 | [KMS](https://kms.cx/) | Windows / Office 激活 |
@@ -375,13 +368,14 @@
 | [软件管家](https://softgj.com/) | 纯净软件下载 |
 | [极客应用](https://jikeplay.com/) | 软件仓库 |
 | [小晨软件合集](https://wwwxl.lanzoul.com/s/ccdd) | 蓝奏云合集 |
-| [趣分享乐园](https://b.rjh8.cn/ywqn/my2.php) | 资源分享 |
-| [Mirror 酱](https://mirrorchyan.com/zh/get-start) | 资源镜像加速 |
+| [趣分享乐园](https://b.rjh8.cn/ywqn/my2.php) | 资源分享(手机的可惜貌似死了) |
+| [Mirror 酱](https://mirrorchyan.com/zh/get-start) | 游戏的脚本辅助用的、不是外挂 |
 
 ### 资源站
 
 | 站点 | 说明 |
 | :--- | :--- |
+| [硬核指南](https://yinghezhinan.com/) |首推资源网站，我的第一个网址 |
 | [资源网](https://heeee.com/) | 综合资源 |
 | [乐于分享网](https://fffxx.com/) | 综合资源 |
 | [玄夜の资源小站](https://sakuraxy.top/) | 个人资源站 |
@@ -390,7 +384,7 @@
 | [千帆搜索](https://pan.qianfan.app/) | 网盘资源搜索 |
 | [Z-Library](https://zh.cn101.ru/) | 电子书（镜像入口） |
 | [FMHY](https://fmhy.net/) | 全球最大免费资源索引 |
-| [猪八戒网](https://www.zbj.com/) | 外包 / 企业服务 |
+
 
 ### 导航站
 
@@ -400,7 +394,7 @@
 | [FUUN.FUN](https://fuun.fun/) | 奇趣网站收藏 |
 | [书签地球](https://www.bookmarkearth.cn/) | 书签共享搜索 |
 | [学吧导航](https://www.xue8nav.com/) | 学习类导航 |
-| [机佬导航](https://jldzz.cn/) | 干净的上网导航 |
+| [机佬导航](https://jldzz.cn/) | 电子产品的导航 |
 | [柒夜导航](https://nav.qinight.com/) | 黑科技资源导航 |
 | [阿晨 Home](https://navigation.hoarfall.com/) | 个人导航页 |
 | [黑灰若山](https://xydh.fun/vitaminc) | 个人导航页 |
@@ -413,7 +407,6 @@
 | [V2EX](https://global.v2ex.co/) | 程序员社区 |
 | [NodeSeek](https://nodeseek.cc/) | 主机 / VPS / 羊毛 |
 | [吾爱破解](https://www.52pojie.cn/) | 逆向 / 破解技术 |
-| [Telegram 频道推荐](https://telegramchannels.me/zh/channels?category=other) | 频道分类榜 |
 
 ## 网络与加速
 
@@ -437,33 +430,9 @@
 | [联想官网](https://www.lenovo.com/) | 产品与驱动 |
 | [联想支持](https://support.lenovo.com/) | 保修 / 驱动下载 |
 
-## 成人内容
-
-> ⚠️ 以下为 18+ 内容，仅作个人索引，请遵守所在地法律法规。
-
-| 站点 | 说明 |
-| :--- | :--- |
-| [Iwara](https://www.iwara.tv/) | 3D 动画 / MMD 视频 |
-| [Hanime1](https://hanime1.me/) | 成人动画在线 |
-| [AI 风月](https://aigirlfriendstudio.com/zh/explore/apps) | AI 陪伴应用 |
-| [91 吃瓜](https://www.91cg.com/) | 吃瓜内容 |
-| [AcFan 禁漫](https://hqcuwkcj.nyr38pug.shop/) | 同人 / 里番 |
-| [Ac_fun](https://acpc.q2h3f9f8.work/) | 备用镜像 |
-| [JMComic 文档](https://jmcomic.readthedocs.io/zh-cn/latest/) | 客户端 / API 文档 |
-| [JMComic-Crawler](https://github.com/hect0x7/JMComic-Crawler-Python) | 下载器项目 |
-| [XVideoS](https://xvdizhi50.top/) | 资源站 |
-| [资源导航](https://x.20510000.xyz/) | 聚合导航 |
-| [备用入口](https://h-b6a2f81f.20770010.xyz/) | 镜像站 |
-| [Pink Pineapple](https://www.pinkpineapple.co.jp/) | 成人动画制作公司（[ANN 页](https://www.animenewsnetwork.com/encyclopedia/company.php?id=2486)） |
-| [Erogemy](https://erogemy.com/) | 网页小游戏 |
-| [黄油网址整理](https://github.com/yisubox/gamge) | 别人的同类整理，可参考排版 |
-| [灵梦御所](https://telegramchannels.me/zh/channels/lmys8) | TG 频道入口 |
-
 ---
 
-## 维护说明
+## 感谢！！！
 
-- 新增链接时，先想「我会在什么场景打开它」，放进对应分组；分组超过 15 条再拆二级标题。
-- 失效链接不必删，改成 `~~删除线~~` 并标注「已失效」，方便以后找替代。
-- 分类顺序按使用频率排，常用的放前面。
-- 这是**公开仓库**：校内系统、机场面板、接码站点等信息会一并公开。发布前建议把「成人内容」整节和「网络与加速」里的面板地址删掉，只留给自己看。
+- 在此感谢各位各行各业的大佬分享的网站！
+
